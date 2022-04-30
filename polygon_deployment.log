@@ -1,0 +1,68 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'mumbai'
+> Network id:      80001
+> Block gas limit: 20494009 (0x138b6b9)
+
+
+3_deploy_polygon.js
+===================
+
+   Deploying 'FxERC20'
+   -------------------
+   > transaction hash:    0x636ddb0eb773124ccd8af92ee558f4d86bd39609352e687890b488ae26688be9
+   > Blocks: 2            Seconds: 4
+   > contract address:    0xf970ACe6dD6f4A38D938533eE0BDE2a5EaA758a6
+   > block number:        23068508
+   > block timestamp:     1640355704
+   > account:             0xb0bbEA2d69a20a332Ff90486761B908482030636
+   > balance:             0.815664469722662265
+   > gas used:            1469650 (0x166cd2)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00367412501028755 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 23068510)
+
+   Replacing 'Harvest'
+   -------------------
+   > transaction hash:    0x34cee577cda6f727cf7151d2c5627d2e5058a0bb33f673c2ad075ffa3a40321a
+   > Blocks: 2            Seconds: 4
+   > contract address:    0xd3edC2a34304A087042293B12fb1357d58C73C83
+   > block number:        23068513
+   > block timestamp:     1640355714
+   > account:             0xb0bbEA2d69a20a332Ff90486761B908482030636
+   > balance:             0.805864417195222118
+   > gas used:            3920021 (0x3bd095)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.009800052527440147 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 23068516)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.013474177537727697 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.013474177537727697 ETH
+
+
